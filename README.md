@@ -1,6 +1,6 @@
 # AirportGrab
 
-## Project build by Vue and Nodejs
+## Project build by vue and Nodejs
 
 ## Project setup
 ```
