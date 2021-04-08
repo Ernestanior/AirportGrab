@@ -1,5 +1,7 @@
 # AirportGrab
-
+```
+An application for customers to pick up from Airport or drop off at Airport. Using Vue for front-end structure and Node.js for back-end, MongoDB for the database. 
+```
 ## Project build by vue and nodejs
 
 ## Project setup
