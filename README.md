@@ -24,6 +24,7 @@ Using Vue for front-end structure and Node.js for back-end, MongoDB for the data
 <img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/EN/9.png" width="320px">
 <img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/EN/10.png" width="320px">
 <img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/EN/11.png" width="320px">
+
 ### Chinese Version
 <img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/CN/1.jpg" width="320px">
 <img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/CN/2.jpg" width="320px">
