@@ -43,6 +43,8 @@ npm run serve
 ```
 node app.js
 ```
+### Hint
+To run the backend completely to connect the database, you are supposed to open a new http/TCP tunnel. If not, it will only access when my tunnel is on.
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
