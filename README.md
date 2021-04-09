@@ -12,7 +12,19 @@ Using Vue for front-end structure and Node.js for back-end, MongoDB for the data
 - backend - build by Node.js and MongoDB
 
 ## Project Image
-
+### English Version
+<img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/EN/1.jpg" width="320px">
+<img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/EN/2.jpg" width="320px">
+<img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/EN/3.jpg" width="320px">
+<img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/EN/4.jpg" width="320px">
+<img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/EN/5.jpg" width="320px">
+<img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/EN/6.jpg" width="320px">
+<img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/EN/7.jpg" width="320px">
+<img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/EN/8.jpg" width="320px">
+<img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/EN/9.jpg" width="320px">
+<img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/EN/10.jpg" width="320px">
+<img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/EN/11.jpg" width="320px">
+### Chinese Version
 <img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/CN/1.jpg" width="320px">
 <img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/CN/2.jpg" width="320px">
 <img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/CN/3.jpg" width="320px">
